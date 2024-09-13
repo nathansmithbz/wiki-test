@@ -1,3 +1,3 @@
-[[/assets/imageExample.png|Image example]]
+[[/assets/imageExample.png|Image example]] 
 
-A home page!!
+A home page!! 
